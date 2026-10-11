@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-templates",
+  "versions": [
+    {
+      "commit": "d5c671f8c207ec9b70c8a30cebf184c703c85213",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:47:42.987008+00:00"
+    }
+  ]
+}
